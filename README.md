@@ -1,4 +1,4 @@
 # Hello-World
 tutorial
 
-Message about my self would here
+Message about myself would here
